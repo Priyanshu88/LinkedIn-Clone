@@ -109,7 +109,6 @@ A website like LinkedIn which is created using ReactJS, React-Redux has been use
          <td>
 <a href="#"><img src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png" alt="" width="30" height="30" /></a>
         </td>  
-
     </tr>
 </table>
 
@@ -216,7 +215,7 @@ You can start editing the page by modifying `src/app.js`. The page auto-updates 
 
 ### Learn More
 
-This project uses [`react-webcam`](https://github.com/mozmorris/react-webcam) for making the snap, [`react-countdown-circlev-time`](https://github.com/vydimitrov/react-countdown-circle-timer) for countdown on chatview page, also refer [`react-timeago`](https://github.com/nmn/react-timeago), and [`uuidjs`](https://github.com/uuidjs/uuid).
+This project uses [`react-flip-move`](https://github.com/joshwcomeau/react-flip-move).
 
 
 <!-- Deployment -->
