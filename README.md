@@ -100,7 +100,7 @@ https://user-images.githubusercontent.com/86107841/235966465-fa6180ca-af90-4a37-
 <a href="#"><img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-vector-logo-yellow-png-transparent-javascript-vector-12.png" alt="" width="30" height="30" /></a>
         </td>
         <td>
-<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="" width="30" height="30" /></a>
+<a href="#"><img src="https://i0.wp.com/programmingwithmosh.com/wp-content/uploads/2019/01/2000px-React-icon.svg_.png?fit=2000%2C1413&ssl=1" alt="" width="30" height="30" /></a>
         </td>
                         <td>
 <a href="#"><img src="https://www.blog.plint-sites.nl/wordpress/wp-content/uploads/2016/11/redux-logo-768x694.png" alt="" width="30" height="30" /></a>
